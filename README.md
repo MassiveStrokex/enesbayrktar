@@ -15,4 +15,3 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesbayrktar&layout=compact&theme=graywhite&card_width=350)](https://github.com/enesbayrktar)
